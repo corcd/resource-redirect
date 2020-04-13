@@ -1,0 +1,30 @@
+{
+  "name": "resource-redirect",
+  "version": "0.1.14",
+  "description": "",
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corcd/resource-redirect.git"
+  },
+  "keywords": [
+    "webpack"
+  ],
+  "author": "whzcorcd <whzcorcd@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "bugs": {
+    "url": "https://github.com/corcd/resource-redirect/issues"
+  },
+  "homepage": "https://github.com/corcd/resource-redirect#readme",
+  "dependencies": {
+    "fs-extra": "^9.0.0",
+    "path": "^0.12.7"
+  }
+}
