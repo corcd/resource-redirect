@@ -1,6 +1,6 @@
 {
   "name": "resource-redirect",
-  "version": "0.4.2",
+  "version": "0.4.12",
   "description": "",
   "publishConfig": {
     "access": "public"
